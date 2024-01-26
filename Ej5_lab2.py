@@ -10,4 +10,4 @@ paga = horas * costo_hora
 
 print("La paga es", "Q", paga)
 
-print("*****************************")
+print("*****************************") 
