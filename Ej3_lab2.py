@@ -6,4 +6,4 @@ print("*****Bienvenido usuario*****")
 nombre_U = input("Introduce tu nombre: ")
 print("¡Hola " + nombre_U + "!")
 
-print("*****************************")
+print("*****************************") 
